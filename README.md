@@ -9,7 +9,9 @@ Currently will only work with Gnu/Linux based operating systems due to the way t
 
 # Installation
 cd simple-organisation-utility
+
 g++ -std=c++20 main.cpp -lstdc++ -o {name of choice}
+
 sudo cp {name of choice} /usr/bin/
 
 Makefile coming soon. 
