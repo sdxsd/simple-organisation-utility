@@ -5,7 +5,7 @@ A simple command line interface to create, destroy, and save tasks.
 None. Built completely using the C++ standard library. 
 
 # Compatibility
-Currently will only work with Gnu/Linux based operating systems due to the way the file and directory used to store tasks is created. 
+Currently will only work with GNU/Linux based operating systems due to the way the file and directory used to store tasks is created. 
 
 # Installation
 cd simple-organisation-utility
